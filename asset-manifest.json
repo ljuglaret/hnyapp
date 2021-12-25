@@ -1,15 +1,15 @@
 {
-  "main.css": "./static/css/main.b8106595.chunk.css",
-  "main.js": "./static/js/main.9834a33d.chunk.js",
-  "main.js.map": "./static/js/main.9834a33d.chunk.js.map",
-  "runtime~main.js": "./static/js/runtime~main.f84754a1.js",
-  "runtime~main.js.map": "./static/js/runtime~main.f84754a1.js.map",
-  "static/js/2.c362f49e.chunk.js": "./static/js/2.c362f49e.chunk.js",
-  "static/js/2.c362f49e.chunk.js.map": "./static/js/2.c362f49e.chunk.js.map",
-  "static/js/3.d3c67870.chunk.js": "./static/js/3.d3c67870.chunk.js",
-  "static/js/3.d3c67870.chunk.js.map": "./static/js/3.d3c67870.chunk.js.map",
-  "index.html": "./index.html",
-  "precache-manifest.4c4d77433727f3f0ba1544d1f9bbe940.js": "./precache-manifest.4c4d77433727f3f0ba1544d1f9bbe940.js",
-  "service-worker.js": "./service-worker.js",
-  "static/css/main.b8106595.chunk.css.map": "./static/css/main.b8106595.chunk.css.map"
+  "main.css": "/hnyapp/static/css/main.b8106595.chunk.css",
+  "main.js": "/hnyapp/static/js/main.9834a33d.chunk.js",
+  "main.js.map": "/hnyapp/static/js/main.9834a33d.chunk.js.map",
+  "runtime~main.js": "/hnyapp/static/js/runtime~main.22e71f7f.js",
+  "runtime~main.js.map": "/hnyapp/static/js/runtime~main.22e71f7f.js.map",
+  "static/js/2.c362f49e.chunk.js": "/hnyapp/static/js/2.c362f49e.chunk.js",
+  "static/js/2.c362f49e.chunk.js.map": "/hnyapp/static/js/2.c362f49e.chunk.js.map",
+  "static/js/3.d3c67870.chunk.js": "/hnyapp/static/js/3.d3c67870.chunk.js",
+  "static/js/3.d3c67870.chunk.js.map": "/hnyapp/static/js/3.d3c67870.chunk.js.map",
+  "index.html": "/hnyapp/index.html",
+  "precache-manifest.af9d4e4fed7c111082449a7222404a62.js": "/hnyapp/precache-manifest.af9d4e4fed7c111082449a7222404a62.js",
+  "service-worker.js": "/hnyapp/service-worker.js",
+  "static/css/main.b8106595.chunk.css.map": "/hnyapp/static/css/main.b8106595.chunk.css.map"
 }
