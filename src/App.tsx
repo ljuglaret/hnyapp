@@ -1,9 +1,9 @@
 import React , { useState } from 'react';
 import './App.css';
 
-import * as dataL from './assets/languages.json';
-import * as dataC from './assets/countries.json';
-import * as dataW from './assets/Wishes.json';
+import * as dataL from '../src/assets/languages.json';
+import * as dataC from '../src/assets/countries.json';
+import * as dataW from '../src/assets/Wishes.json';
 const fs = require('fs');
 const divDOWN = document.createElement("div");
 divDOWN.id="message";
