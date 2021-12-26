@@ -9,6 +9,9 @@ const divDOWN = document.createElement("div");
 divDOWN.id="message";
 document.body.appendChild(divDOWN)
 let myObj = JSON.stringify(dataC);
+myObj  = myObj.replace(/[\u007F-\uFFFF]/g, function(chr) {
+  return "\\u" + ("0000" + chr.charCodeAt(0).toString(16)).substr(-4)
+})
 let countriesList : string[] = []
 
 let countrieAndName: { value: string }[] = []
@@ -16,8 +19,13 @@ let countrieAndLanguage: { language: LanguageT }[] = []
 let countrieAndWishes: { language: LanguageT,wishe: LanguageT}[] = []
 
 let myObjL = JSON.stringify(dataL);
-
+myObjL  = myObjL.replace(/[\u007F-\uFFFF]/g, function(chr) {
+  return "\\u" + ("0000" + chr.charCodeAt(0).toString(16)).substr(-4)
+})
 let myObjW = JSON.stringify(dataW);
+myObjW  = myObjW.replace(/[\u007F-\uFFFF]/g, function(chr) {
+  return "\\u" + ("0000" + chr.charCodeAt(0).toString(16)).substr(-4)
+})
 type LanguageT = string
 
 interface MyObj {
@@ -26,6 +34,7 @@ interface MyObj {
 }
 myObjW = myObjW.slice(11,myObjW.length - 1)
 let obj :MyObj[]  = JSON.parse(myObjW)
+
 
 const App: React.FunctionComponent = () => {
  
@@ -96,12 +105,15 @@ const App: React.FunctionComponent = () => {
       <p >{selectedOption} </p>
       <div>
         <table>
+          <thead></thead>
+          <tbody>
         {countrieAndLanguage.map((option) => (
             <tr>
               <td>{option.language}</td>
               <td onClick={() => sendMail(searchWishesForALanguage(option.language))}>{searchWishesForALanguage(option.language) }</td>
             </tr>
         ))}
+        </tbody>
         </table>
       
       </div>
