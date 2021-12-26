@@ -1,7 +1,7 @@
 {
   "main.css": "/hnyapp/static/css/main.6d870537.chunk.css",
-  "main.js": "/hnyapp/static/js/main.59998886.chunk.js",
-  "main.js.map": "/hnyapp/static/js/main.59998886.chunk.js.map",
+  "main.js": "/hnyapp/static/js/main.4e855a11.chunk.js",
+  "main.js.map": "/hnyapp/static/js/main.4e855a11.chunk.js.map",
   "runtime~main.js": "/hnyapp/static/js/runtime~main.22e71f7f.js",
   "runtime~main.js.map": "/hnyapp/static/js/runtime~main.22e71f7f.js.map",
   "static/js/2.c362f49e.chunk.js": "/hnyapp/static/js/2.c362f49e.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.d3c67870.chunk.js": "/hnyapp/static/js/3.d3c67870.chunk.js",
   "static/js/3.d3c67870.chunk.js.map": "/hnyapp/static/js/3.d3c67870.chunk.js.map",
   "index.html": "/hnyapp/index.html",
-  "precache-manifest.e629e8b87a2341b3e5ed7b1902933f99.js": "/hnyapp/precache-manifest.e629e8b87a2341b3e5ed7b1902933f99.js",
+  "precache-manifest.0cb1366617202aa365d8255b095977f3.js": "/hnyapp/precache-manifest.0cb1366617202aa365d8255b095977f3.js",
   "service-worker.js": "/hnyapp/service-worker.js",
   "static/css/main.6d870537.chunk.css.map": "/hnyapp/static/css/main.6d870537.chunk.css.map"
 }
