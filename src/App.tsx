@@ -20,11 +20,11 @@ let countrieAndWishes: { language: LanguageT,wishe: LanguageT}[] = []
 
 let myObjL = JSON.stringify(dataL);
 myObjL  = myObjL.replace(/[\u007F-\uFFFF]/g, function(chr) {
-  return "\\u" + ("0000" + chr.charCodeAt(0).toString(16)).substr(-4)
+  return "\\u" + ("0000" + chr.charCodeAt(0).toString(16)).substring(-4)
 })
 let myObjW = JSON.stringify(dataW);
 myObjW  = myObjW.replace(/[\u007F-\uFFFF]/g, function(chr) {
-  return "\\u" + ("0000" + chr.charCodeAt(0).toString(16)).substr(-4)
+  return "\\u" + ("0000" + chr.charCodeAt(0).toString(16)).substring(-4)
 })
 type LanguageT = string
 
