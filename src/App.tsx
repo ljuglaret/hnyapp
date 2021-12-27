@@ -58,7 +58,7 @@ const App: React.FunctionComponent = () => {
 
   return (
     <div className='App' >
-      <select defaultValue={'DEFAULT'} className='App-select' onChange={selectChange} >
+      <select className='App-select' onChange={selectChange} >
         <option selected disabled>
           Choose one
         </option>
@@ -67,7 +67,6 @@ const App: React.FunctionComponent = () => {
   
         ))}          
       </select>    
-      <p >{selectedOption} </p>
       <div>
         <table>
           <thead></thead>
@@ -80,7 +79,6 @@ const App: React.FunctionComponent = () => {
         ))}
         </tbody>
         </table>
-      
       </div>
     </div>
   );
