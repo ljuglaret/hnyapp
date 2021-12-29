@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/hnyapp/static/media/bg.3eeebe41.jpg"
   },
   {
-    "revision": "b16b24f29916784e01e3781902f483d6",
+    "revision": "9045fa4d2691e72687df0a1fd7546c32",
     "url": "/hnyapp/index.html"
   }
 ];
