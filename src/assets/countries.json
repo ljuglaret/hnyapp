@@ -97,7 +97,7 @@
     "continent": "AN",
     "capital": "",
     "currency": "",
-    "languages": []
+    "languages": ["en"]
   },
   "AR": {
     "name": "Argentina",

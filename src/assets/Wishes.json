@@ -220,6 +220,10 @@
     "Wishe": "bònn ané"
   },
   {
+    "Language": "HAITIAN",
+    "Wishe": "bònn ané"
+  },
+  {
     "Language": "HAUSA",
     "Wishe": "barka da sabuwar shekara"
   },
@@ -488,6 +492,11 @@
     "Wishe": "ਨਵੇਂ ਸਾਲ ਦੀਆਂ ਵਧਾਈਆਂ (nave saal deeyan vadhaiyaan)"
   },
   {
+    "Language": "panjabi / punjabi",
+    "Wishe": "ਚੰਗਾ ਸਾਲ"
+  },
+  
+  {
     "Language": "ROMANI",
     "Wishe": "baxtalo nevo bersh"
   },
@@ -572,11 +581,19 @@
     "Wishe": "srečno novo leto"
   },
   {
+    "Language": "SLOVENIAN",
+    "Wishe": "dobro leto"
+  },
+  {
     "Language": "SOBOTA",
     "Wishe": "dobir leto"
   },
   {
     "Language": "SOMALI",
+    "Wishe": "sanad wanagsan"
+  },
+  {
+    "Language": "SOMALIA",
     "Wishe": "sanad wanagsan"
   },
   {
@@ -722,6 +739,34 @@
   {
     "Language": "ZULU",
     "Wishe": "unyaka omusha omuhle"
+  },
+  {
+    "Language": "AMHARIC",
+    "Wishe": "መልካም አመት"
+  },
+  {
+    "Language": "IRISH",
+    "Wishe": "bliain mhaith"
+  },
+  {
+    "Language": "TURKMEN",
+    "Wishe": "gowy ýyl"
+  },
+  {
+    "Language": "PERSIAN",
+    "Wishe": "سال خوب"
+  },
+  {
+    "Language": "NORWEGIAN bokmål",
+    "Wishe": "godt nyttår"
+  },
+  {
+    "Language": "SOUTHERN SOTHO",
+    "Wishe": "selemo se setle"
+  },
+  {
+    "Language": "cambodian",
+    "Wishe": "ឆ្នាំ​ល្អ"
   }
 ]
 }
