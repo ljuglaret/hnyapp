@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1ebcedff5c9645c17b45",
+    "revision": "cbe4a029c000650a5050",
     "url": "/hnyapp/static/css/main.604092d3.chunk.css"
   },
   {
-    "revision": "1ebcedff5c9645c17b45",
-    "url": "/hnyapp/static/js/main.3bc6a7ac.chunk.js"
+    "revision": "cbe4a029c000650a5050",
+    "url": "/hnyapp/static/js/main.2b3d25db.chunk.js"
   },
   {
     "revision": "65132be3a1511f7f1c69",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/hnyapp/static/media/bg.3eeebe41.jpg"
   },
   {
-    "revision": "ccbaac970524d15a496390eaa08160a3",
+    "revision": "2fe6506bbd59dcec9f478f1cea35cf71",
     "url": "/hnyapp/index.html"
   }
 ];
